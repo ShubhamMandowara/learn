@@ -1,0 +1,5 @@
+_type: prompt
+input_variables:
+  ['input_language', user_text]
+template:
+  Suggest me company names in {input_language}, where {user_text}.
