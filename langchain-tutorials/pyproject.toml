@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "learn-langchain"
+name = "langchain-tutorials"
 version = "0.1.0"
 description = ""
 authors = ["shubham Mandowara <shubham77mandowara@gmail.com>"]
