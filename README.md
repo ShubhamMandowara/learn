@@ -1,6 +1,10 @@
 # learn
 Learn all about AI
 
+**Youtube playlist to Master Embedchain:** https://www.youtube.com/playlist?list=PLQ_jKE7AEWt4ddgfUQXONRySpikAhe-CY
+**Youtube playlist to Master Langchain:** https://www.youtube.com/playlist?list=PLQ_jKE7AEWt7gvtnG10AY3dVJP_pebGIt
+
+
 **Master Langchain Youtube video links:**
 
 1. What is Langchain and How to install it: https://youtu.be/Z7iF-1LDRIs
