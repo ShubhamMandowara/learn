@@ -1,9 +1,9 @@
 # learn
 Learn all about AI
 
-**Youtube playlist to Master Embedchain:** https://www.youtube.com/playlist?list=PLQ_jKE7AEWt4ddgfUQXONRySpikAhe-CY
+**- Youtube playlist to Master Embedchain:** https://www.youtube.com/playlist?list=PLQ_jKE7AEWt4ddgfUQXONRySpikAhe-CY
 
-**Youtube playlist to Master Langchain:** https://www.youtube.com/playlist?list=PLQ_jKE7AEWt7gvtnG10AY3dVJP_pebGIt
+**- Youtube playlist to Master Langchain:** https://www.youtube.com/playlist?list=PLQ_jKE7AEWt7gvtnG10AY3dVJP_pebGIt
 
 
 **Master Langchain Youtube video links:**
